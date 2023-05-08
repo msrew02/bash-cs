@@ -1,13 +1,13 @@
 {
     "omextraa3@gmail.com": {
-        "Last check": "2023-05-07",
-        "Today's points": 530,
-        "Points": 3707
+        "Last check": "2023-05-08",
+        "Today's points": 465,
+        "Points": 4172
     },
     "takumi021@outlook.com": {
-        "Last check": "2023-05-07",
-        "Today's points": 445,
-        "Points": 871
+        "Last check": "2023-05-08",
+        "Today's points": 540,
+        "Points": 1411
     },
-    "Elapsed time": "00:25:53"
+    "Elapsed time": "00:26:01"
 }
